@@ -1,0 +1,36 @@
+game Elements
+1. PC:- "Thor"
+   NPC:- "enemies,leader"
+2. GOAL:- "to kill the leader and enemies"
+3. RULES:- "reduse 1 heart when enemy hits"
+         20 hearts 
+        when thor losses 20 hearts, game will be over
+        when thor touches electric current he will get one hearts
+          maximum:10 electric currents
+            when thor kills leader thor wins
+            when leader hits thor 10 hearts will be lost
+             score increases by 2 on hitting the enemy, 50 on hitting the leader.
+4. STORY:- Leader wants to destroy the world. Thor wants to stop the leader from doing so. Hence, thor is on a mission to kill the leader and his gang.
+5. BALANCE:- Electric current and enemy.
+6. ADAPTIVITY:- When the game progresses enemies get stronger.
+When the game progresses hearts will get lesser.
+7. CHANCE v/s SKILL :- CHANCE:- Enemies location, electric current location, 
+SKILL:- How well thor is saving himself from enemies, shooting the enemies and fighting with the leader
+8. FEEDBACK:- Score, sound
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+DECOMPOSITION 
+1. To collect the images and sound files and load them in code 
+2. To scroll background infinitely
+3. To spawn the enemies 
+4. To code enemies for fighting with the sword 
+5. Thor coding for fighting with the hammer
+6. To code for reducing hearts 
+7. To code for increasing hearts on touching electic current
+8. Code for scoring system
+9. Code for hearts
+10. Code for leader fighting with the 
+11. Code for game over 
+12. Code for winning the game
+13. Adding for the sound files
